@@ -1,5 +1,6 @@
 ### Gabriel Tsutomo Nakano
 Currently studying Analysis and Development of Systems at Pontifical Catholic University of Paraná (PUCPR)
+Back-end developer for Palinha Musical App
 #### Portuguese / English
 
 ###
