@@ -1,6 +1,7 @@
 ### Gabriel Tsutomo Nakano
 Currently studying Analysis and Development of Systems at Pontifical Catholic University of Paraná (PUCPR).
-Back-end developer for Palinha Musical App
+Back-end developer for Palinha Musical App, and Fullstack developer part time for Fuel Agência Web.
+My stacks: Laravel, Django, JavaScript and SQL
 #### Portuguese / English
 
 ###
